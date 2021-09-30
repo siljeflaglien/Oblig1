@@ -140,7 +140,7 @@ h1 {
     
 }
 
-h2 .resumeoverskrift2 {
+.resumeoverskrift2{
     font-size: 150%;
     font-weight: lighter;
     color: white;
@@ -224,15 +224,16 @@ p {
     display: flex;
     flex-direction: row;
 }
-h2 .prosjekter {
+.prosjekter {
 display: block;
 text-align: center;
+color: white;
 }
 .hundetekst {
-    text-align: center;
+    text-align: left;
     vertical-align: center;
 }
 .hund img {
-    padding-right: 40px;
+    padding-right: 70px;
     max-height: 300px;
 }
