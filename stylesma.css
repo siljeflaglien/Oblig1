@@ -282,4 +282,11 @@ font-size: 200%;
     padding-bottom: 0px;
     padding-left: 20px;
 }
+.abouttekst {
+    padding-top: 40px;
+    font-size: 120%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
 
