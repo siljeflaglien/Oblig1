@@ -22,6 +22,7 @@ margin-top: 25px;
 
 ul li{
     display: inline-block;
+    font-size: 120%;
 }
 
 ul li a{
