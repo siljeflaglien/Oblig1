@@ -141,7 +141,7 @@ h1 {
 }
 
 h2 {
-    font-size: 120;
+    font-size: 150%;
     font-weight: lighter;
     color: white;
     text-align: left;
@@ -219,4 +219,21 @@ p {
 }
 #vitmer {
     margin-left: 25px;
+}
+
+.hund {
+    display: flex;
+    flex-direction: row;
+}
+.prosjekter h2{
+display: block;
+text-align: center;
+}
+.hundetekst {
+    text-align: center;
+    vertical-align: center;
+}
+.hund img {
+    padding-right: 40px;
+    max-height: 300px;
 }
