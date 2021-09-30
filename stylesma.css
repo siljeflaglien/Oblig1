@@ -1,14 +1,5 @@
 
-@font-face {
-    font-family: 'bebas_neueregular';
-    src: url(Fonts/BebasNeue/bebasneue-regular-webfont.woff2) format('woff2'),
-         url(Fonts/BebasNeue/bebasneue-regular-webfont.woff) format('woff'),
-         url(Fonts/BebasNeue/bebasneue-regular-webfont.ttf) format('truetype'),
-         url(Fonts/BebasNeue/bebasneue-regular-webfont.svg) format('svg');
-    font-weight: normal;
-    font-style: normal;
 
-}
 @font-face {
     font-family: 'balletregular';
     src: url(Fonts/Balletfont/ballet-regular-variablefont_opsz-webfont.woff2) format('woff2'),
@@ -101,8 +92,9 @@ ul li.active a{
 
 .video {
     margin-top: 2%;
-    margin-left: 10%;
+    margin-left: 15%;
 }
+
 h1 {
     text-transform: uppercase;
     text-align: center;
@@ -175,12 +167,12 @@ hr {
     margin-left: 20%;
 }
 
-#resumeoverskrift {
+h1 {
     text-transform: uppercase;
     text-shadow: 6px 6px 3px #222222;
-    font-family: 'bebas_neueregular';
     font-size: 500%;
     display: block;
+    margin-bottom: 30px;
 }
 
 #skolelink {
@@ -228,12 +220,66 @@ p {
 display: block;
 text-align: center;
 color: white;
+font-size: 200%;
 }
 .hundetekst {
     text-align: left;
     vertical-align: center;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .hund img {
     padding-right: 70px;
     max-height: 300px;
 }
+.hundetekst > p {
+    font-size: 120%;
+}
+.divider img {
+    max-height: 100px;
+    
+}
+.divider {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.sang {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.sangtekst {
+    font-size: 120%;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.serie {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+.serietekst a {
+    color: white;
+}
+.serietekst a:hover {
+    color: pink;
+}
+.serie img {
+    max-height: 250px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.serietekst > p {
+    font-size: 120%;
+    padding-bottom: 0px;
+    padding-left: 20px;
+}
+
