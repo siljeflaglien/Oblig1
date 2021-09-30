@@ -1,4 +1,6 @@
 # Prinsesse Sofia nettside:
+Dette er vår første obligatoriske oppgave i webutvikling.
+
 Vi valgte oppgave 1, da vi syntes den var mest interessant. Det kom mange ideer og vi klarte fort å bli kreative rundt oppgaven. Vi hadde det også veldig gøy med å finne en fiktiv person som vi kunne ha siden om, som tilslutt ble Prinsesse Sofia.
 
 Fargetemaet ble valgt etter prinsesse temaet, samme med bilder og annet pynt på siden. 
@@ -13,4 +15,5 @@ Vi lærte oss å importere videoer fra youtube inn i en boks på nettsiden, og b
 
 Vi prøvde oss også på å lage en dropdown list, hvor vi skrev inn hobbyene til Sofia, som kom frem ved å hoovre over. Vi gjorde det på denne måten fordi vi ikke hadde mer plass i headeren, og dette ga det peneste resultatet syntes vi.
 
+Håper du liker nettsiden vår!
 
