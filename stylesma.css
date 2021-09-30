@@ -235,6 +235,8 @@ font-size: 200%;
 }
 .hundetekst > p {
     font-size: 120%;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
 }
 .divider img {
     max-height: 100px;
@@ -288,5 +290,8 @@ font-size: 200%;
     color: white;
     margin-left: auto;
     margin-right: auto;
+}
+#aboutdivider {
+    margin-top: 0px;
 }
 
